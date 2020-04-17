@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a9a0k17k8bo47cjy/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ahj-homeworks-testing/branch/master)
+
+---
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
