@@ -24,6 +24,7 @@
     "jest": "^25.3.0",
     "mini-css-extract-plugin": "^0.9.0",
     "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "prettier": "^2.0.4",
     "puppeteer": "^3.0.0",
     "regenerator-runtime": "^0.13.5",
     "terser-webpack-plugin": "^2.3.5",
@@ -39,7 +40,8 @@
     "test": "jest --testPathPattern=./src/js/__test__",
     "e2e": "jest --testPathPattern=./src/js/__test__",
     "lint": "eslint .",
-    "build": "webpack --config webpack.prod.js"
+    "build": "webpack --config webpack.prod.js",
+    "prettier": "prettier --write dist/app.bundle.js"
   },
   "repository": {
     "type": "git",
