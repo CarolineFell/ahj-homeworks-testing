@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/a9a0k17k8bo47cjy/branch/master?svg=true)](https://ci.appveyor.com/project/CarolineFell/ahj-homeworks-testing/branch/master)
 
+https://carolinefell.github.io/ahj-homeworks-testing/
+
 ---
 
 Правила сдачи задания:
